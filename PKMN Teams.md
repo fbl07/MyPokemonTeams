@@ -3453,3 +3453,31 @@ IVs: 0 Atk / 0 Spe
 - Hidden Power [Psychic]  
 
 
+=== [gen9nationaldexdoubles] Alpabetical Teams/V Team ===
+
+Volcarona  
+Ability: Flame Body  
+Tera Type: Bug  
+
+Volcanion  
+Ability: Water Absorb  
+Tera Type: Fire  
+
+Vivillon-Marine  
+Ability: Shield Dust  
+Tera Type: Bug  
+
+Vaporeon  
+Ability: Water Absorb  
+Tera Type: Water  
+
+Virizion  
+Ability: Justified  
+Tera Type: Grass  
+
+Venusaur-Mega @ Venusaurite  
+Ability: Chlorophyll  
+Tera Type: Grass  
+IVs: 0 Atk  
+
+
